@@ -1,0 +1,9 @@
+{
+  "name": "example-sequest",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "sequest": "^0.7.0"
+  }
+}
